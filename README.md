@@ -1,2 +1,3 @@
 # dtdns
-Various clients to update DTDNS 
+## updateDtDns.sh
+Update dtdns from bash. Works from Linux, OSX bash shell.
